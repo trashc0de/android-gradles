@@ -1,5 +1,5 @@
 # android-gradles
-a quick and dirty list of gradles i often use and i'm f**king sick of googling. new versions numbers may vary
+a quick and dirty list of implementations i often use and i'm f**king sick of googling. new versions numbers may vary
 
   
   
