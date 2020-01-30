@@ -6,9 +6,8 @@ a quick and dirty list of implementations i often use and i'm f**king sick of go
    
 **VIEWMODEL + LIVEDATA**
 
-`implementation 'androidx.lifecycle:lifecycle-viewmodel:2.1.0'`
-
-`implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.1.0'`
+	implementation 'androidx.lifecycle:lifecycle-viewmodel:2.1.0'
+	implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.1.0'
 
 
 **TIMBER**
