@@ -13,13 +13,15 @@ a quick and dirty list of implementations i often use and i'm f**king sick of go
 
 **TIMBER**
 
-`implementation 'com.jakewharton.timber:timber:4.7.1'`
+	implementation 'com.jakewharton.timber:timber:4.7.1'
     
 
 **RETROFIT**
 
 `implementation 'com.squareup.retrofit2:retrofit:2.7.0'`
+
 `implementation 'com.squareup.retrofit2:converter-gson:2.7.0'`
+
 `implementation 'com.squareup.retrofit2:converter-scalars:2.7.0'`
 
     
@@ -45,11 +47,13 @@ a quick and dirty list of implementations i often use and i'm f**king sick of go
 **ROOM**
 
 `implementation "androidx.room:room-runtime:2.2.3"`
+
 `kapt "androidx.room:room-compiler:2.2.3"`
 
 **GLIDE**
 
 `implementation 'com.github.bumptech.glide:glide:4.10.0'`
+
 `kapt 'com.github.bumptech.glide:compiler:4.10.0'`
 
 **ANKO COMMONS**
