@@ -9,8 +9,8 @@ a quick and dirty list of implementations and stuff i often use in gradle file a
    
 **VIEWMODEL + LIVEDATA**
 
-	implementation 'androidx.lifecycle:lifecycle-viewmodel:2.1.0'
-	implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.1.0'
+	implementation 'androidx.lifecycle:lifecycle-viewmodel:2.2.0'
+	implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.2.0'
 
 
 **TIMBER**
@@ -27,7 +27,7 @@ a quick and dirty list of implementations and stuff i often use in gradle file a
     
 **MATERIAL**
 
-	implementation 'com.google.android.material:material:1.2.0-alpha03'
+	implementation 'com.google.android.material:material:1.2.0-alpha04'
 
 
 **COROUTINES**
@@ -41,7 +41,7 @@ a quick and dirty list of implementations and stuff i often use in gradle file a
 
 *Kotlin extension*
 	
-	implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc03'
+	implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
 
 
 **ROOM**
